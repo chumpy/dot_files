@@ -3,9 +3,9 @@ These are my dot files.  They're here for my own convenience but everyone is fre
 
 ## Dependencies
 ### vim
-* [Pathogen]: https://github.com/tpope/vim-pathogen
-* [Solarized]: http://ethanschoonover.com/solarized
-* [Inconsolata-dz]: http://nodnod.net/2009/feb/12/adding-straight-single-and-double-quotes-inconsola/
+* Pathogen: https://github.com/tpope/vim-pathogen
+* Solarized: http://ethanschoonover.com/solarized
+* Inconsolata-dz: http://nodnod.net/2009/feb/12/adding-straight-single-and-double-quotes-inconsola/
 
 
 ## License
